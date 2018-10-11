@@ -1,0 +1,93 @@
+---
+title: "Literature Review"
+author: "Paul-Eric Rayner"
+date: "5 October 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+## Research Paper Summaries
+
+
+
+### *Ramesh, K., Matloob, A., Aslam, F., Florentine, S.K., Chauhan, B.S., 2017.* **Weeds in a Changing Climate: Vulnerabilities, Consequences, and Implications for Future Weed Management.** Front Plant Sci 8. https://doi.org/10.3389/fpls.2017.00095
+
+#### Weed responses to elevated CO2
+
+Focuses on climate change for the first part, nothing new. Projected increase in atm CO2 favours net photosynthesis in C3 plants (3/4 of global agriculture is C3 crops). There is a chapter focused on elevated CO2 and talks about case studies where C3 plants performed better in higher CO2 conditions.
+
+"The abundance and appearance of weeds varies according to regions, crops, and management systems, which complicates management approaches.""
+
+"Through the lens of climate change, Peters et al. (2014) outlined three distinct types of shifts in weedy vegetation (range, niche, and trait shifts), occurring at different scales (landscape, community, and population scales), respectively." 
+
+"Allocation of resources to below ground parts, source-sink relationships, and mitochondrial respiration also need to be reassessed in the wake of climate change scenarios."
+
+#### weed responses to elevated temperature
+
+Some arable weed species, such as *Datura stramonium*, grow faster and compete better under climate change (Cavero et al., 1999). Same in Australia with *Hieracium aurantiacum L.* via accelerated growth and reproduction (Brinkley and Bomford, 2002). Climate change will alter crop-weed synchronisation of emergence, causing them to synchronise or stop synchronising. Eg: *Setaria viridis* will germinate later under higher temp in central europe and reach optimum growth conditions, allowing it to outcompete local maize crops. The implications of weeds having changing geographic distribution is that they will invade new undisturbed areas. Elevated temp could offset benefits of elevated CO2. Herbicide uptake and persistence in soil affected by rising temp (Rodenburg et al., 2011) 
+
+#### weed response to variation in rainfall and drought spells
+alters weed distribution and impact on crop production. 
+unpredictable rainfall, more frequent droughts and floods. distribution and prevalence of weeds become problematic. summer droughts affect weed managemetn in spring sown crops (Peters and Gerowitt., 2014).
+Parasitic and C4 weeds will thrive better (Rodenburg et al., 2010). Weeds that thrive in waterlogged conditions will compete.
+
+"A general conclusion that can be drawn from the above discussion is that an increase in rainfall would lead to additional weed pressure, thus increasing the herbicide costs and overall cost of production of major crops."
+
+#### Weed Response to the Interactive Effects of Climatic Variables
+"Systemic investigations are needed to appraise the interactive effects of key environmental variables on different weed species and communities under diverse ecosystems.""
+"Since predicting the impact of a weed under cultivated conditions at local scale requires a process-based modeling approach integrating local environmental conditions with the differential responses of the crop and weeds, Stratonovitch et al. (2012) have developed a simulation model for winter wheat and a competing weed Alopecurus myosuroides in UK."
+
+#### Effectiveness of Weed Management and Adoption of Best Agronomic Practices
+Water crisis will worsen irrigated rice fields. Solutions are threatened by weed infestations.'trade-off between water-use efficient rice production and weed management'
+"Increasing interest in conservation agriculture has created a reliance on glyphosate for weed management (Shaner, 2000), and the continuous use of this herbicide may result in evolution of resistant biotypes of major weeds."
+"(Chauhan et al., 2014).
+Ziska et al. (1999) and Ziska and Teasdale (2000) have shown that herbicides (e.g., glyphosate) will be rendered less effective against weeds under CO2 levels anticipated in the near future. Increased tolerance to glyphosate under elevated CO2 has been recorded for both agricultural and invasive weed species (Ziska and McConnell, 2015)."
+
+### *Hellmann, J.J., Byers, J.E., Bierwagen, B.G., Dukes, J.S., 2008.* **Five Potential Consequences of Climate Change for Invasive Species.** Conservation Biology 22, 534-543. 
+1. Altered mechanisms of transport & introduction
+2. Altered climatic constraints on invasive species
+3. Altered distribution of existing invasive species
+4. Altered impact of existing invasive species
+5. Altered effectiveness of management strategies for invasive species
+
+### *Hulme, P.E., 2017.* **Climate change and biological invasions: evidence, expectations, and response options.** Biological Reviews 92, 1297-1313. https://doi.org/10.1111/brv.12282
+
+The paper focuses on alien species in GB. They looked at publications where british alien species were studied for their performance, distribution, impact and climate change. Of those publications, they searched for those who'd been studied to look at how they'd fare under altered environmental paramters/climate change.
+In terms of invasive alien species that have known economic or biodiversity impacts, the taxa that are likely to be the most responsive are plant pathogens and insect pests of agricultural crops. However, the extent to which climate adaptation strategies lead to new crops, altered rotations, and different farming practices (e.g. irrigation, fertilization) will all shape the potential agricultural impacts of alien species.
+
+The body of the paper looks at the unintentional ways that climate change will assist aliens in reaching/ establishing in the UK. "By far the largest source of established alien plants are escapes from gardens and horticulture."
+"Finally, even strong ecophysiological responses to a changing climate may not translate into distribution shifts. Many alien plants show a marked phenological response to warming, flowering several days earlier for each degree increment in temperature yet the magnitude of this response is not reflected in the
+extent to which these species have subsequently spread in Great Britain (Hulme, 2011b)."
+
+Key words: 'Bioclimatic Suitability'.
+
+### *Davidson, A.M., Jennions, M., Nicotra, A.B., 2011.* **Do invasive species show higher phenotypic plasticity than native species and, if so, is it adaptive? A meta-analysis.** Ecology Letters 14, 419-431. https://doi.org/10.1111/j.1461-0248.2011.01596.x
+
+Our analysis shows that invasive species demonstrate significantly higher phenotypic plasticity than non-invasive species.
+Our finding that invasive species are more plastic in a variety of traits but that non-invasive species respond just as well, if not better, when resources are limiting, has interesting implications for predicting responses to global change.
+
+### *Ziska, L.H., 2016.* **The role of climate change and increasing atmospheric carbon dioxide on weed management: Herbicide efficacy.** Agriculture, Ecosystems & Environment 231, 304-309. https://doi.org/10.1016/j.agee.2016.07.014
+a novel synthesis of potential abiotic and biotic mechanisms that characterize how [CO2] or climatic change impact herbicide efficacy. Reviews studies that looked at how CO2 affects plant development from seedling stage to adult stage. It also looks at how gene transfer in herbicide-resistant crops could create resistant hybrid weeds. 
+
+The following paragraph details how different climatic variables affect herbicide efficacy;
+Warmer temperatures or an increase in weather extremes (e.g. precipitation) could reduce field access necessary for herbicide application. Climate change induced inconsistencies in rainfall, wind, relative humidity or soil or air temperature could reduce spray coverage or retention times of active ingredients following application, depending in part, on spray and herbicide placement innovations (Muzik, 1976, Olson et al., 2000). Increases in precipitation (as single extreme events or higher averages) could dilute the herbicide following application as well as exacerbate leaching and potential ground-water contamination (e.g. Froud-Williams, 1996, Carere et al., 2011); windier conditions could increase the risk of drift. Higher temperatures could increase both absorption and translocation of foliar applied herbicides adding to efficacy, but also increase volatility and microbial breakdown (Atienza et al., 2001). High humidity can reduce droplet drying after application and increase absorption of the herbicide (Anderson et al., 1993). Overall, increased environmental variation, exacerbated by climate change could influence delivery times, spray coverage, volatilization, movement and accidental injury associated with herbicide application (Fig. 1).
+
+Highlighted gap in the field: "It is therefore urgent to understand the basis for any climatic or CO2 shifts in herbicidal action; such an imperative is further emphasized as over-reliance on herbicides has resulted in unprecedented levels of single and multiple resistance within weed populations (Heap, 2014)."
+And: "While the review presented here provides an initial synthesis regarding the probable interactions between herbicide efficacy and climate or [CO2], there remain a number of critical needs regarding temporal and spatial impacts before, during and following herbicide application (Fig. 1). "
+
+### Breadth and depth of the review
+* Limit the review to European weeds
+* Limit to agricultural weeds.
+* Limit to Climate effects on herbicide-resistant weeds.(herbicide-climate interactions). This would discuss the increase/decreae in effectiveness of herbicides under altered climatic variables.
+* Limit the review to Great Britain's alien for the following reasons (Hulme 2017): it's an island nation with strict border policies, has a well-documented record of its alien species, there's good evidence that climate in GB has changed over the past century.
+
+### Idea 1: How climate affects herbicide effectiveness
+Eliminating swathes of weeds and pests using herbicides is difficult because of herbicide resistance, cost, harm to local biodiversity and the difficulty in predicting weed emergence times. Ameliorating our understanding of how climate affects herbicide resistance is therefore a priority to reduce herbicide-use. 
+
+### Idea 2: How do the interactions between climatic variables affect weed responses
+Climate governs what happens to plants in all terrestrial environments. Scientists have only just begun to start understanding and predicting phenological patterns. Weeds are important to predict because they limit crop productivity. To predict, we need to look at historical weather patterns and weed distribution patterns using data from past century. Climate variables include: temperature, precipitation, heat-moisture, humidity, solar radiation, wind, ozone, atmospheric pressure. Other environmental conditions that affect weeds are CO2 concentrations and soil acidity. Climate change will affect all of these variables to some degree, and it is important to compensate for climate change when predicting weed distribution.
+
+### Targets for week 4
+* Write a complete outline with two sentences on each paragraph.
